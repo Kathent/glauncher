@@ -1,0 +1,12 @@
+{
+  "name": "glauncher",
+  "outputfilename": "glauncher",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "kathent",
+    "email": "liangkaijun52013@gmail.com"
+  }
+}
